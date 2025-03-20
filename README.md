@@ -38,15 +38,6 @@ Run the main script to start the application:
 python main.py
 ```
 
-## Project Structure
-```
-|-- your-tkinter-project
-    |-- main.py  # Main script
-    |-- README.md  # Project documentation
-    |-- requirements.txt  # List of dependencies
-    |-- assets/  # Images and other resources (if any)
-```
-
 ## Contributing
 Feel free to contribute by submitting a pull request. Suggestions and improvements are welcome!
 
